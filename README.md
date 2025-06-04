@@ -35,6 +35,7 @@ xv6-assignments/
 │   └── namespace-related-code/
 │       ├── ...
 └── README.md
+```
 
 
 ## How to Build & Run
@@ -45,12 +46,11 @@ To build and run the xv6 operating system with the included modifications:
 make clean
 make qemu
 
-
 For testing:
 ./runtests.exp my.log
 echo $?
 # Should return 0 on success
-
+```
 Notes
 These solutions follow the guidelines and limitations defined in the course, including restrictions on modifying certain files (e.g., syscall.h), and follow conventions for system call naming and kernel structure.
 
