@@ -22,7 +22,6 @@ The assignments were completed as part of course **20502 – Operating Systems**
 
 ## Structure
 
-
 xv6-assignments/
 ├── maman11/
 │ ├── ps.c
@@ -30,9 +29,10 @@ xv6-assignments/
 │ ├── sysproc.c
 │ └── ...
 ├── maman12/
-│ ├── updated syscall files
-│ ├── namespace-related code
-│ └── ...
+│ ├── updated-syscall-files/
+│ │ ├── ...
+│ └── namespace-related-code/
+│ ├── ...
 └── README.md
 
 ## How to Build & Run
