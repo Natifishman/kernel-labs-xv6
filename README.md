@@ -1,5 +1,10 @@
 # xv6-assignments
 
+![Final Grade](https://img.shields.io/badge/grade-100-brightgreen.svg)
+![Semester](https://img.shields.io/badge/semester-2024A-blue.svg)
+![Course](https://img.shields.io/badge/course-operating_systems-lightgrey.svg)
+
+
 📘 Solutions for assignments based on the xv6 operating system — part of the *Operating Systems* course at the Open University of Israel.
 
 ## Overview
