@@ -30,10 +30,6 @@ xv6-assignments/
 │ └── ...
 └── README.md
 
-perl
-Copy
-Edit
-
 ## How to Build & Run
 
 You must have a Unix-like environment (e.g., Ubuntu 16.04) and QEMU installed.
