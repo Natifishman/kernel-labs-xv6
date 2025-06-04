@@ -51,8 +51,11 @@ For testing:
 echo $?
 # Should return 0 on success
 ```
-Notes
+## 📄 Notes:
+**Notes:**
 These solutions follow the guidelines and limitations defined in the course, including restrictions on modifying certain files (e.g., syscall.h), and follow conventions for system call naming and kernel structure.
 
-Disclaimer
+---
+
+**Disclaimer:**
 This code is provided for learning purposes only. Please do not copy solutions directly — understanding and implementing the logic yourself is key to mastering systems programming.
