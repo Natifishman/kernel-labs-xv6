@@ -42,11 +42,8 @@ You must have a Unix-like environment (e.g., Ubuntu 16.04) and QEMU installed.
 ```bash
 make clean
 make qemu
-For testing:
 
-bash
-Copy
-Edit
+For testing:
 ./runtests.exp my.log
 echo $?
 # Should return 0 on success
